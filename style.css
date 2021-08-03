@@ -1,0 +1,34 @@
+body{
+    background-image: url(images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%);    
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+#span{
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 6px;
+}
+
+#boton{
+    background-color: hsl(154, 59%, 51%)
+}
+
+#formulario{
+    background-color: white;
+    border-radius: 6px;
+}
+
+#principal{
+    margin-top: 100px;
+}
+
+#contenido{
+    margin-top: 100px;
+}
